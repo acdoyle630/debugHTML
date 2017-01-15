@@ -19,7 +19,7 @@ p{
   font-size: 30px;
   line-height: 15px;
   color: #694814;
-  text-align: right;
+  text-align: center;
 }
 
 p.poem{
@@ -151,3 +151,4 @@ div{
 #shine5{
   background-image: url('../images/star-05.png');
 }
+
